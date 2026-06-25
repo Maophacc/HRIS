@@ -9,7 +9,7 @@ import EmployeeDetail from "./pages/human-resource/EmployeeDetail";
 import Salary from "./pages/salary/Salary";
 import Proposal from "./pages/proposal/Proposal";
 import Jobtik from "./pages/jobtik/Jobtik";
-import Overview from "./pages/overview/Overview";
+import Overview from "./pages/Overview/Overview";
 import Organization from "./pages/organization/Organization";
 import Contracts from "./pages/contracts/Contracts";
 
